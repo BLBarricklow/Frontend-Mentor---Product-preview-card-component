@@ -4,7 +4,9 @@ body {
     background-color: hsl(240, 37%, 92%);
     border: 1px solid red;
     padding: 6% 4%;
+    color: hsl(228, 12%, 48%);
     font-family: 'Montserrat', sans-serif;
+    font-size: 0.875rem;
 }
 
 /* main {
@@ -29,7 +31,11 @@ picture {
 }
 
 .info-container {
-    padding: 20px;
+    padding: 25px;
+}
+
+.product-class {
+    font-size: 0.75rem;
 }
 
 img {
@@ -37,13 +43,30 @@ img {
     object-fit: contain;
 }
 
+.product-name {
+    font-size: 1.9rem;
+}
+
 .serif-font {
     font-family: 'Fraunces', serif;
+    color: black;
 }
 
 .main-price {
     color: hsl(158, 36%, 37%);
     font-size: 2rem;
+}
+
+button {
+    display: block;
+    background-color: hsl(158, 36%, 37%);
+    color:hsl(240, 37%, 92%);
+    font-family: 'Montserrat', sans-serif;
+    border: none;
+    border-radius: 5px;
+    height: 45px;
+    width: 95%;
+    margin: 5px;
 }
 
 /* .attribution {
