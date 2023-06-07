@@ -1,0 +1,46 @@
+body {
+    height: 100vh;
+    margin: 0;
+    background-color: hsl(240, 37%, 92%);
+    border: 1px solid red;
+    padding: 6% 4%;
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* main {
+    height: 100%;
+} */
+
+picture {
+    object-fit: contain;
+}
+
+
+.product-img {
+    object-fit: contain;
+}
+
+.item-card {
+    width: 100%;
+    height: 90vh;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 8px;
+    border: 1px solid blue;
+}
+
+.info-container {
+    padding: 20px;
+}
+
+img {
+    max-width: 100%;
+    object-fit: contain;
+}
+
+.serif-font {
+    font-family: 'Fraunces', serif;
+}
+
+/* .attribution {
+    position: fixed;
+} */
