@@ -41,6 +41,11 @@ img {
     font-family: 'Fraunces', serif;
 }
 
+.main-price {
+    color: hsl(158, 36%, 37%);
+    font-size: 2rem;
+}
+
 /* .attribution {
     position: fixed;
 } */
