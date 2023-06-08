@@ -49,7 +49,8 @@ img {
 
 .serif-font {
     font-family: 'Fraunces', serif;
-    color: black;
+    font-weight: 700;
+    color: hsl(212, 21%, 14%);
 }
 
 .main-price {
